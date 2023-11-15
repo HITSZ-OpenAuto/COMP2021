@@ -1,17 +1,20 @@
 # 高级语言程序设计
 
+贡献者：……、psp
+文档编写者：psp、……
+
 ![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)  ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
 
 ![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（22级）-gold)  ![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)  ![Static Badge](https://img.shields.io/badge/实验-30%25-wheat)  ![Static Badge](https://img.shields.io/badge/期末考试-50%25-wheat)
 ![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（21级）-gold)  ![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat)  ![Static Badge](https://img.shields.io/badge/实验-30%25-wheat)  ![Static Badge](https://img.shields.io/badge/期末考试-60%25-wheat)
 
-### 关于教师
+## 关于教师
 
 教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。
 
 听课并不必须，因为 C语言 的语法，主要不是听讲学来的，而是自己敲代码所体悟到，上课建议可以自己敲敲代码。
 
-### 关于本课
+## 关于本课
 
 3202 年了，大学中居然还存在这种考试要手写代码，语言标准还停留在上个世纪的编程语言课，简直不可思议。
 
@@ -30,7 +33,7 @@
 
 ***
 
-### 关于实验
+## 关于实验
 
 实验一共九次。前四次实验较简单，而且是独立实验。后五次实验难度较大，代码量较大，综合考察指针、数组、函数、结构体，任务大体相似，只是具体要求不同。
 
@@ -40,13 +43,13 @@
 
 前三、四个课上基本可以完成，课后大概只需花一点时间完善一下，并测试好。后五个实验需要在课后花大量时间，才能写完，一个实验课后大约多花 2-4 小时。（ps:要想拿高分，除了基本要求外，还有增强代码健壮性，还有多写注释，课后还需更多时间）
 
-### 关于考试
+## 关于考试
 
 考试整体难度不大。最高分应该是 100 分或接近 100 分，平均分 80 左右，挂科率大约百分之二。（补：22级全年级仅有一人挂科）
 
 主要考查对各语法的理解，基本上实验课都有所设及，个别比较生僻的语法知识和函数，则需特别复习。
 
-### Tips
+## Tips
 
 作业主要是完成课后练习题的部分题，难度不大，所需时间也不多。
 
