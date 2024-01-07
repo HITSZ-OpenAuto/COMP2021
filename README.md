@@ -7,7 +7,7 @@
 
 ***
 
-[by longlin](https://github.com/longlin10086)
+> by [@longlin](https://github.com/longlin10086), 2023.9
 
 ## 关于本课 
 
@@ -24,10 +24,8 @@
   - 通过权威书籍学习：如果以上的方式都不适合你，你也可以选择一本业界公认的权威书籍进行学习（避雷国内教材！）。可以试试 C Primer Plus，但我个人觉得里面的内容比较拖沓。
 - 放弃 C 语言（逃）。直接上手 cpp 其实也没啥太大问题，不过 cpp 水太深，并且也很容易陷入与 c 语言一样的困境——接触的东西全是十几二十年前的内容，新特性一点不会。
 
-<p align="right"><strong>本小节更新于 2023.9.1</strong></p>
-
 ***
-[by lmh](https://github.com/lmh12138)
+> by [@lmh](https://github.com/lmh12138)
 
 ## 关于教师
 
